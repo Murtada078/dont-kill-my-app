@@ -1,4 +1,4 @@
----
+H---no
 name: Huawei
 subtitle: except Nexus 6P
 manufacturer:
